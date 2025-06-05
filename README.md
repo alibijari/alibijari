@@ -62,22 +62,6 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 
 ---
 
-## 👨‍🏫 Teaching Experience
-
-- **Teaching Assistant:**  
-  - Advanced Solid-State Physics I (Graduate, Fall 2024)  
-  - Solid-State Physics I (Undergrad, Spring 2025)  
-  - Modern Physics Lab (Spring 2025)
-
----
-
-## 🏅 Workshops & Conferences
-
-- _17th Conference on Condensed Matter Physics_ (University of Tabriz, 2025) — Poster presenter
-- _Winter School: Computational Chemistry Bootcamp_ (Sharif University, 2025)
-
----
-
 ## 💡 Skills
 
 - **Python for Scientific Computing & Automation**
