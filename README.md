@@ -31,8 +31,6 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 ![Avogadro](https://img.shields.io/badge/-Avogadro-green?style=flat-square)
 ![Wolfram Mathematica](https://img.shields.io/badge/-Mathematica-red?style=flat-square)
 ![MS Office](https://img.shields.io/badge/-MS%20Office-0078D4?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
