@@ -36,7 +36,6 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 
 ## 📈 GitHub Stats
 
-<!-- اگر اکانتت خصوصی نیست و می‌خواهی ویجت آمار اضافه کنی: -->
 ![alibijari's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibijari&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibijari&layout=compact&theme=radical)
 
