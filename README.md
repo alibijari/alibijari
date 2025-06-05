@@ -80,14 +80,3 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 - **GitHub:** [alibijari](https://github.com/alibijari)  
 
 ---
-
-## 🗣️ Languages
-
-- **Persian:** Native  
-- **English:** CEFR B2
-
----
-
-_“Bridging quantum theory and experiment to accelerate discovery in advanced materials.”_
-
-
