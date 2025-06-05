@@ -11,7 +11,6 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 - 🧠 **Focus:** Quantum magnetism, correlated electrons, low-dimensional transport, and energy-loss mechanisms  
 - 🏆 _Ranked 1st on MSc admission (Exceptional Talent Program)_
 
-- 🤝 Thrive in **interdisciplinary teams** bridging theory & experiment  
 - 🌱 _Learning:_ Advanced DFT, many-body theory, and scientific programming  
 - 💬 Open to **collaboration** in advanced materials and quantum-device projects
 
