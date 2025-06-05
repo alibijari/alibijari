@@ -18,7 +18,7 @@ _Physics PhD Student | Computational Condensed Matter | Quantum Materials | Pyth
 
 ## 🎯 Summary
 
-> I am a PhD candidate specializing in computational/theoretical quantum materials. Using DFT simulations and custom Python codes, I investigate charge transport and dissipation in low-dimensional systems—currently twisted bilayer graphene. I aim to bridge theory and experiment in 2D/quantum device R&D teams.
+> I am a PhD candidate specializing in computational/theoretical quantum materials. Using DFT simulations and custom Python codes, I investigate charge transport and dissipation in low-dimensional systems—currently twisted bilayer graphene. I aim to bridge theory and experiment in 2D Quantum device R&D teams.
 
 ---
 
